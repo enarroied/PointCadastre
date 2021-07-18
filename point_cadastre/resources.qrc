@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/point_cadastre" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
